@@ -17,16 +17,16 @@ function Download() {
             <div className='container community'>
                 <h2 data-aos='fade-down'>OUR Business MODEL </h2>
                 <p className='u-text-small u-text-light' data-aos='fade-right'>
-                Several factors have contributed to our remarkable successes, but one factor stands out; our unwavering commitment to a set of three core values, which have with passage of time become our watchword- Partnership, Relationship, and Commitment to Excellence..</p>
+                Our Business Model Supports Your Project Objectives, Timeline And Budget, Adding Value Through Experience, Expertise And Relationships    </p>
                 <p className='u-text-small u-text-light' data-aos='fade-left'>
-                With our of qualified and seasoned proffessionals who have several years of experience, we guarantee quality and
-                 safe service delivery at all times, through out our operation, our exemplary safety is world class.               
-                </p>
+               With our of qualified and seasoned professionals who have several years of experience in the oil and gas industry, we guarantee quality
+                and safe service delivery at all times.throughout our operation,
+                 our exemplary safety is world class.  </p>
                
             <IconContext.Provider value={{size:'15'}}>
                 <div className='community-icons' data-aos='fade-up'>
                      <div className='community-icon'>
-                            <GrAndroid /> <p> info@quantum-basics.com</p>
+                            <GrAndroid /> <p> info@extronng.com</p>
                     </div>
                    
                 </div>

@@ -8,25 +8,25 @@ export const featureList = [
     {
         id: 1,
         icon :  <FaAccessibleIcon color='#0a1930' size={22} />,
-        heading: "The Sinetamer®",
-        text: "The Sinetamer® solution encompasses the deployment of a 4th Generation Technology of surge and transient protection system. We are more than just a typical lightning arrestor.",
+        heading: "OFFSHORE OIL & GAS FACILITIES CONSTRUCTION AND MODIFICATION",
+        text: "Extron focus on construction and installation for offshore and onshore project. We have years experience for provision of specialised services to oil and gas company and has deliver challenging project in the division..",
     },
     {
         id: 2,
         icon :  <SiDatabricks color='#0a1930' size={22} />,
-        heading: "Secure Power Systems", 
-        text: "Quantum Energy is a specialist in Secure Power Systems deployment and Maintenance services for Critical Infrastructure, Industries and Institutions such as Manufacturers, Banking, Hospitals, Oil and Gas",
+        heading: "ONSHORE AND SWAMP PIPELINE CONSTRUCTION.", 
+        text: "Extron has performed various turnkey projects relating to Platforms, Production facilities, and the installation of Bulklines, all of which involve Engineering, Project management and Construction services.",
     },
     {
         id: 3,
         icon :  <MdConnectWithoutContact color='#0a1930' size={22} />,
-        heading: "Electrical Distirbution",
-        text: "Quantum Energy provides comprehensive product offering for Low and Medium Voltage (LV/MV) distribution equipment like Primary/secondary switchgears, transformers, indoor and outdoor breakers."
+        heading: "FLOWLINE CONSTRUCTION, INSTALLATION, HOOK- UP AND REPAIR",
+        text: "Our engineers can revamp a whole flow-station facilities, re-fabricate existing structures, construct and install process piping, flow-line and pipeline."
     },
     {
         id: 4,
         icon :  <FaGg color='#0a1930' size={22} />,
-        heading: "WAGES",
-        text: "This compact energy server is a plug and play gateway and data logger thatis a key component in an entry-level energy management system. The device stores consumption of water, gas, electricity",
+        heading: "INSTRUMENTATION/ AUTOMATION",
+        text: "We offer automation solutions to increase efficiency, accuracy and quality in industrial facilities and in operational and manufacturing processes.",
     },
 ]

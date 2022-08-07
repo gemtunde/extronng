@@ -21,10 +21,10 @@ function Features() {
            <div className='container features'>
                 <div className='u-title' data-aos='fade-down'>
                     <BsFillBookmarkStarFill color='green' size={30} />
-                    <h2> Energy Management services</h2>
+                    <h2> Services</h2>
                     <p className='u-text-small u-text-dark'>
-                    Quantum Energy is a specialist in Secure Power Systems deployment and Maintenance services for Critical Infrastructure, Industries and Institutions such as Manufacturers, Banking, Hospitals, Oil and Gas.
-                    </p>
+                       We engage in Engineering Design, Project Management consultancy, procurement, Construction, Telecommunication and
+Supply of all form of equipment related to oil, manufacturing and other sector of the economy. </p>
                 </div>
                 <div className='features-content'> 
                         <div className='features-left' data-aos='fade-right'>

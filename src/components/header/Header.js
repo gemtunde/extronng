@@ -19,13 +19,13 @@ function Header() {
             <div className='container header'>
                 <div className='header-left' data-aos='fade-right'>
                     <h1>
-                        <span>Telecoms | Network Planning | Energy Mgt</span>
-                        <span>...delivering  value oriented & cost effective service. </span>
+                        <span>Engineering | Telecoms | Project Mgt, Construction</span>
+                        <span>...Procurement & Supply of all form of equipment related to oil, manufacturing and other sector of the
+                        economy. </span>
                        
                     </h1>
-                    <p className='u-text-small u-text-light'>
-                    Vast experience in providing end-to-end IT Telecoms solutions, Integration, network planning, Optimization services and Energy Management.
-                    </p>
+                    <p className='u-text-small u-text-light'>  Rendering quality services not just to satisfy our clients but to be
+The best one stop destination for engineering,installation, commissioning. </p>
                          <div className='header-cta'>
                     <Button
                      text={'Our Portfolio'}
