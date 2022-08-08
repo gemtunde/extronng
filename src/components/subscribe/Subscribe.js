@@ -14,16 +14,18 @@ function Subscribe() {
     return (
         <section id='subscribe'>
             <div className='container subscribe'>
-                <h2 data-aos='fade-right'>Asset Management and Equipment Leasing</h2>
+                <h2 data-aos='fade-right'> Procurement Services</h2>
                 <form  data-aos='fade-left'>
                     <div className='form-control'>      
                     <p className='u-text-small u-text-light' data-aos='fade-left'>
-                    Asset Mapping - Mapping with built-in Geospatial Information System (GIS) that has Meter-to transformer mapping function, our solution will help utility distribution companies control, monitor and manage both remotely dispersed and local assets real-time.
-                   </p>
+                        Our vast network of technical partners and manufacturers around the globe makes us capable of supplying our clients with the most comprehensive choice of
+                         equipment for their Seismic, Exploration & Production Operations.
+                    </p>
                     </div>
                     <div className='form-control'>      
                     <p className='u-text-small u-text-light' data-aos='fade-left'>
-                    Equipment Leasing -We have a variety of wireless network testing equipments (both software and hardware) that are technically useful and economically beneficial for your use via lease in order to meet up with project demands and deadlines to enhance customer satisfaction.
+                            Furthermore, to complement our Supply Chain Management service, we use the best and latest business management software within our procurement solution, so as to be able to offer all our 
+                            clients full implementation and support, focusing on their purchasing needs and requirements.
                    </p>
                     </div>
                 </form>

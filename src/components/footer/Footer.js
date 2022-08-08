@@ -24,7 +24,9 @@ const Footer = () => {
         <div className="footer-box"  data-aos='fade-down'>
           <h4>About Us</h4>
           <div className="footer-links">
-          <p className='u-text-small u-text-light' data-aos='fade-left'>Quantum Basics Nigeria Limited (QBNL) is a company with vast experience in providing end-to-end IT Telecoms solutions, Integration, network planning, Optimization services and Energy Management. </p>
+          <p className='u-text-small u-text-light' data-aos='fade-left'>
+           EXTRON engages in Engineering, Project Mgt, procurement, Construction, Telecoms and procurement.
+            </p>
           </div>
         </div>
         <div className="footer-box" data-aos='fade-up'>
@@ -50,19 +52,19 @@ const Footer = () => {
               <FaMapMarkerAlt /> &nbsp; Address: Abuja, Nigeria.
             </p> */}
             <p>
-              <FaPhoneAlt /> &nbsp; Phone: +234 8067135167.
+              <FaPhoneAlt /> &nbsp; Phone: +234 08037827181.
             </p>
             <p>
-              <FaEnvelope /> &nbsp; info@quantum-basics.com, 
+              <FaEnvelope /> &nbsp; info@extronng.com, 
             </p>
             <p>
-              <FaGlobe /> &nbsp;  www.quantum-basics.com
+              <FaGlobe /> &nbsp;  www.extronng.com
             </p>
           </div>
         </div>
         <div className="footer-box" data-aos='fade-up'>
           <img src={logo} alt="logo" />
-          <p className="u-text-small">&copy; Copyright 2022.  Quantum-Basics NIGERIA LIMITED</p>
+          <p className="u-text-small">&copy; Copyright 2022.  Extron NIGERIA LIMITED</p>
         </div>
       </div>
     </section>

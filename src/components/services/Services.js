@@ -21,12 +21,13 @@ function Services() {
            <div className='container features'>
                 <div className='u-title' data-aos='fade-down'>
                     <BsFillBookmarkStarFill color='green' size={30} />
-                    <h2>Telecoms Services </h2>
+                    <h2>Services </h2>
                     <p className='u-text-small u-text-dark'>
-                    Since most base stations in Africa are connected Via Wireless Transport media, Suitability of a site for construction is eventually decided by availability of a Point to Point transport network.
+                    We specializes in rendering professional and innovative services to the oil and gas upstream and down-stream sectors.
                     </p>
                     <p className='u-text-small u-text-dark'>
-                    Our engineers are proficient in the use of PATHLOSS for prediction Line Of Sight (LOS) to ensure seamless.
+                        Extron offers an extensive range of professional services designed to meet
+                            growing and changing demand of the Oil and gas industries.
                     </p>
                 </div>
                 <div className='features-content'> 

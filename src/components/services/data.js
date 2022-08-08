@@ -8,26 +8,26 @@ export const serviceList = [
     {
         id: 1,
         icon :  <FaAccessibleIcon color='#0a1930' size={22} />,
-        heading: "GSM Radio Network ",
-        text: "Our Engineers are equipped with relevant skills to Carry out Site selection and design appropriate engineering parameters for optimum Radio Network performance.",
+        heading: "ACCESS CONTROL,INTRUSION DETECTION SYSTEM AND FIRE PROTECTION",
+        text: "The professionals at Extron provides expert design, installation and servicing of intrusion detection systems.",
     },
     {
         id: 2,
         icon :  <SiDatabricks color='#0a1930' size={22} />,
-        heading: "Transmission Planning and Optimization ", 
-        text: "Transmission Planning and Optimization is an all-encompassing service we carry out to provide free flow of Data from one hub to another.",
+        heading: "SPECIALIZED MANPOWER", 
+        text: " Global Remote has a wide array of skilled engineering and inspection staff available for short-term or long-term hire.",
     },
     {
         id: 3,
         icon :  <MdConnectWithoutContact color='#0a1930' size={22} />,
-        heading: "fiber optics installation & maintenance",
-        text: "We can implement indoor and outdoor installations, upgrade and maintenance of fiber optics cable laying and Security surveillance maintenance service."
+        heading: "TANK FABRICATION AND REHABILITATION",
+        text: "Extron has successfully completed numerous Tank Fabrication and Rehabilitation projects for clients in remote and challenging locations. "
     },
     {
         id: 4,
         icon :  <FaGg color='#0a1930' size={22} />,
-        heading: "BTS/RF Installation",
-        text: "Our Engineers are one of the leading Engineers in carrying out sanity checks on BTS/RF installations to avert poor network performance.",
+        heading: "CATHODIC PROTECTION",
+        text: "We can provide all field services related to cathodic protection system maintenance, installation, commissioning, troubleshooting, auditing and testing.",
     },
    
 ]
