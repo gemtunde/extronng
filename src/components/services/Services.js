@@ -1,8 +1,7 @@
 import React, {useEffect} from 'react';
 import './Services.css'
 import {BsFillBookmarkStarFill} from 'react-icons/bs';
-import nftimg from '../../assets/images/4.jpg'
-import nftsimg from '../../assets/images/3.jpg'
+import nftimg from '../../assets/images/05.png'
 import Service from './Service';
 import {serviceList} from './data'
 
@@ -33,7 +32,6 @@ function Services() {
                 <div className='features-content'> 
                         <div className='features-left' data-aos='fade-right'>
                             <img src={nftimg} alt='feature' />
-                            <img src={nftsimg} alt='feature' />
                         </div>
                         <div className='features-right' data-aos='fade-left'>
                           {

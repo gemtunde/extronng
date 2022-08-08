@@ -8,7 +8,7 @@ const Service = ({key, text, icon, heading}) => {
     return (
         <div className='feature' key={key}>
            <div className='feature-icon'>
-                <BsHexagon color='green' size={55}  />
+                <BsHexagon color='red' size={55}  />
                 <div className='inner-icon'>
                     {icon}
                 </div>

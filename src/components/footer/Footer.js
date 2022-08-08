@@ -63,7 +63,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="footer-box" data-aos='fade-up'>
-          <img src={logo} alt="logo" />
+          <img src={logo} alt="logo"/>
           <p className="u-text-small">&copy; Copyright 2022.  Extron NIGERIA LIMITED</p>
         </div>
       </div>

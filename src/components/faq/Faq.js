@@ -4,7 +4,10 @@ import Question from './Question';
 import {questions} from './data'
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import audits from '../../assets/images/audits.jpg';
+import audits from '../../assets/images/01.png';
+import audit from '../../assets/images/03.png';
+import audi from '../../assets/images/04.png';
+import './Faq.css';
 
 function Faq() {
     useEffect(() => {
@@ -40,7 +43,11 @@ function Faq() {
                     </ul>
                   </p>
              </div>
+             <div className='feat-left'>
+                     <img src={audit} alt='feature' />
+                     <img src={audi} alt='feature' />
                      <img src={audits} alt='feature' />
+             </div>                    
         </div>
         {/* <div  className='questions'  data-aos='fade-up'>
         <h2> Portfolio - The projects we have done</h2>

@@ -1,0 +1,9 @@
+features-left{
+    display: flex;
+    justify-content: center;
+}
+
+.feat-left img {
+  width: 30%;
+  margin:5px;
+}

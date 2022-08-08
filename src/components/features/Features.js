@@ -1,9 +1,8 @@
 import React, {useEffect} from 'react';
 import './Features.css'
 import {BsFillBookmarkStarFill} from 'react-icons/bs';
-import nftsimg from '../../assets/images/energy1.png';
-import nftsimgs from '../../assets/images/energy2.png';
-import sine from '../../assets/images/energy4.jpg';
+import nftsimg from '../../assets/images/01.png';
+import sine from '../../assets/images/03.png';
 import Feature from './Feature';
 import {featureList} from './data'
 
@@ -30,7 +29,6 @@ Supply of all form of equipment related to oil, manufacturing and other sector o
                         <div className='features-left' data-aos='fade-right'>
                             <img src={sine} alt='feature' />
                             <img src={nftsimg} alt='feature' />
-                            <img src={nftsimgs} alt='feature' />
                            
                         </div>
                         <div className='features-right' data-aos='fade-left'>
